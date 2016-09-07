@@ -9,7 +9,7 @@ http://web.eecs.umich.edu/~dkoutra/courses/F15_598/#resources
 ### Note: The Mian Guilt-by-Association Approaches: 
 - Random Walk with Restarts
 - Semi-Supervised Learning
-- Belief Propagation.
+- Belief Propagation
 
 ### Random Walk with Restarts, PageRank
 Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999). The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab. [citations: 2434]
