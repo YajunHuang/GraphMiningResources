@@ -14,7 +14,7 @@ http://web.eecs.umich.edu/~dkoutra/courses/F15_598/#resources
 ### Random Walk with Restarts, PageRank
 Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999). The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab. [citations: 2434]
 
-Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report)
+Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report): http://repository.cmu.edu/cgi/viewcontent.cgi?article=1533&context=compsci
 
 ### Node Classification: Belief Propagation
 
