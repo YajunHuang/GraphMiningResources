@@ -17,10 +17,10 @@ Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999). 
 Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report): http://repository.cmu.edu/cgi/viewcontent.cgi?article=1533&context=compsci
 
 Main References:
-- J. He, M. Li, H. Zhang, H. Tong, and C. Zhang. Manifold- ranking based image retrieval. In ACM Multimedia, pages 9–16, 2004.
-- J.-Y. Pan, H.-J. Yang, C. Faloutsos, and P. Duygulu. Au- tomatic multimedia cross-modal correlation discovery. In KDD, pages 653–658, 2004.
+- J. He, M. Li, H. Zhang, H. Tong, and C. Zhang. Manifold-ranking based image retrieval. In ACM Multimedia, pages 9–16, 2004.
+- J.-Y. Pan, H.-J. Yang, C. Faloutsos, and P. Duygulu. Au-tomatic multimedia cross-modal correlation discovery. In KDD, pages 653–658, 2004.
 - J. Sun, H. Qu, D. Chakrabarti, and C. Faloutsos. Neighbor-hood formation and anomaly detection in bipartite graphs. In ICDM, pages 418–425, 2005
-- H.TongandC.Faloutsos.Center-piece subgraphs:Problem definition and fast solutions. In KDD, 2006.
+- H.Tongand C.Faloutsos. Center-piece subgraphs: Problem definition and fast solutions. In KDD, 2006.
 
 ### Node Classification: Belief Propagation
 
