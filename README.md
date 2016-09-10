@@ -37,3 +37,7 @@ Other readings:
 
 Xiaojin Zhu. Semi-Supervised Learning Literature Survey, 2006. Survey.
 
+### Deep learning for graphs
+
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena. 2014. DeepWalk: online learning of social representations. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14). [CODE:http://www.gitxiv.com/posts/xRKq4MuZyDtS3wR4k/deepwalk-deep-learning-for-graphs]
+Fei Tian, Bin Gao, Qing Cui, Enhong Chen, Tie-Yan Liu. Learning Deep Representations for Graph Clustering. AAAI 2014: 1293-1299
