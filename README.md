@@ -7,7 +7,7 @@ I create this repository for collecting study resources and wirting notes about 
 http://web.eecs.umich.edu/~dkoutra/courses/F15_598/#resources
 
 ### Note: The Mian Guilt-by-Association Approaches: 
-- Random Walk with Restarts: provides a good relevance score bwtween two nodes in a weighted graph
+- Random Walk with Restarts: provides a good relevance score between two nodes in a weighted graph
 - Semi-Supervised Learning
 - Belief Propagation: an algorithm for Markov Random Field Model
 
