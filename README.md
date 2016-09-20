@@ -46,3 +46,7 @@ Fei Tian, Bin Gao, Qing Cui, Enhong Chen, Tie-Yan Liu. Learning Deep Representat
 ### Spectrum clustering for graph
 
 L. Tang and H. Liu. Leveraging social media networks for classification. Data Mining and Knowledge Discovery, 23(3):447–478, 2011.
+
+### Bipartite dense subgraph detect
+
+Hooi, B., Song, H.A., Beutel, A., Shah, N., Shin, K., Faloutsos, C.: Fraudar: bounding graph fraud in the face of camouflage. In: KDD (2016)
