@@ -50,3 +50,7 @@ L. Tang and H. Liu. Leveraging social media networks for classification. Data Mi
 ### Bipartite dense subgraph detect
 
 Hooi, B., Song, H.A., Beutel, A., Shah, N., Shin, K., Faloutsos, C.: Fraudar: bounding graph fraud in the face of camouflage. In: KDD (2016)
+
+N. Shah, A. Beutel, B. Gallagher, and C. Faloutsos. Spotting suspicious link behavior with fbox: An adversarial perspective. arXiv preprint arXiv:1410.3915, 2014.
+
+B. Prakash, M. Seshadri, A. Sridharan, S. Machiraju, and C. Faloutsos. Eigenspokes: Surprising patterns and community structure in large graphs. PAKDD, 2010a, 84, 2010.
