@@ -55,4 +55,6 @@ N. Shah, A. Beutel, B. Gallagher, and C. Faloutsos. Spotting suspicious link beh
 
 B. Prakash, M. Seshadri, A. Sridharan, S. Machiraju, and C. Faloutsos. Eigenspokes: Surprising patterns and community structure in large graphs. PAKDD, 2010a, 84, 2010.
 
-(CMU fraud and spam detection lab) [http://db.cs.cmu.edu/projects/spam-and-fraud-detection/]
+CMU fraud and spam detection lab: http://db.cs.cmu.edu/projects/spam-and-fraud-detection
+
+UIUC Data-Driven Behavioral Analytics: Observations, Representations and Models: http://www.meng-jiang.com/tutorial-cikm16.html
