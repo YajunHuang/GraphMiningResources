@@ -39,7 +39,7 @@ Xiaojin Zhu. Semi-Supervised Learning Literature Survey, 2006. Survey.
 
 ### Deep learning for graphs
 用 Random Walk 在图上根据图的拓扑结构进行采样，样本是一段RW经过的 vertex sequence，类比成NLP的sentence。然后使用 word2vector 算法处理 vertex sequences 得到每个顶点的向量。</br>
-Bryan Perozzi, Rami Al-Rfou, and Steven Skiena. 2014. DeepWalk: online learning of social representations. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14). [CODE:http://www.gitxiv.com/posts/xRKq4MuZyDtS3wR4k/deepwalk-deep-learning-for-graphs]
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena. 2014. DeepWalk: online learning of social representations. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14).</br> CODE:http://www.gitxiv.com/posts/xRKq4MuZyDtS3wR4k/deepwalk-deep-learning-for-graphs
 
 Fei Tian, Bin Gao, Qing Cui, Enhong Chen, Tie-Yan Liu. Learning Deep Representations for Graph Clustering. AAAI 2014: 1293-1299
 
@@ -50,11 +50,17 @@ L. Tang and H. Liu. Leveraging social media networks for classification. Data Mi
 ### Bipartite dense subgraph detect
 
 Hooi, B., Song, H.A., Beutel, A., Shah, N., Shin, K., Faloutsos, C.: Fraudar: bounding graph fraud in the face of camouflage. In: KDD (2016) </br>
-Code: http://www.andrew.cmu.edu/user/bhooi/code/camo.zip
+CODE: http://www.andrew.cmu.edu/user/bhooi/code/camo.zip
 
 N. Shah, A. Beutel, B. Gallagher, and C. Faloutsos. Spotting suspicious link behavior with fbox: An adversarial perspective. arXiv preprint arXiv:1410.3915, 2014.
 
 B. Prakash, M. Seshadri, A. Sridharan, S. Machiraju, and C. Faloutsos. Eigenspokes: Surprising patterns and community structure in large graphs. PAKDD, 2010a, 84, 2010.
+
+M. Jiang, P. Cui, A. Beutel, C. Faloutsos, and S. Yang, "CatchSync: Catching Synchronized Behavior in Large Directed Graphs," in Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, 2014, pp. 941-950.
+
+M. Jiang, P. Cui, A. Beutel, C. Faloutsos, and S. Yang, "Inferring Strange Behavior from Connectivity Pattern in Social Networks," in PAKDD, 2014.
+
+### Related Resources
 
 CMU fraud and spam detection lab: http://db.cs.cmu.edu/projects/spam-and-fraud-detection
 
