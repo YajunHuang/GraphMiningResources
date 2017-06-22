@@ -2,7 +2,7 @@
 ### Yajun Huang, 黄亚军
 
 ## The Mian Guilt-by-Association Approaches: 
-The approaches can be divided to three topic:
+Guilt-by-Association approaches can be divided to three topics:
 - Random Walk with Restarts: provides a good relevance score between two nodes in a weighted graph
 - Semi-Supervised Learning
 - Belief Propagation
