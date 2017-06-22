@@ -27,7 +27,7 @@ __Theory papers__
 belief propagation and its generalizations. pages 236–239. 2003.
 - J. Yedidia, W. Freeman, and Y. Weiss. Constructing free-energy approximations and generalized belief propagation algorithms. IEEE Transactions on Information Theory, 51(7):2282–2312, 2005.
 
-__ Appplication papers__
+__Appplication papers__
 - S. Pandit, D. H. Chau, S. Wang, and C. Faloutsos. Netprobe: a fast and scalable system for fraud detection in online auction networks. In WWW, pages 201–210, 2007
 
 __Efficient improvement papers__
