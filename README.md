@@ -73,6 +73,14 @@ M. Jiang, P. Cui, A. Beutel, C. Faloutsos, and S. Yang, "CatchSync: Catching Syn
 
 M. Jiang, P. Cui, A. Beutel, C. Faloutsos, and S. Yang, "Inferring Strange Behavior from Connectivity Pattern in Social Networks," in PAKDD, 2014.
 
+## Structure2Vector
+[1] H. Dai, B. Dai and L. Song. Discriminative Embeddings of Latent Variable Models for Structured Data, International Conference on Machine Learning (ICML). 2016.
+[2] Song, L., Boots, B., Siddiqi, S., Gordon, G., and Smola, A., Hilbert Space Embeddings of Hidden Markov Models, International Conference on Machine Learning (ICML), 2010. (BEST PAPER)
+[3] Grover, Aditya, and Jure Leskovec. node2vec: Scalable feature learning for networks. International Conference on Knowledge Discovery and Data mining(KDD). 2016.
+[4] R Trivedi, H Dai, Y Wang, L Song. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graph. International Conference on Machine Learning( ICML). 2017.
+[5] H Dai, Y Wang, R Trivedi, L Song. Deep Coevolutionary Network: Embedding User and Item Features for Recommendation. Recsys Workshop on Deep Learning for Recommendation Systems. 2017.
+[6] H. Dai, E. Khalil, Y. Zhang, B. Dilkina and L. Song.  Learning Combination Optimizations over Graphs. Arxiv: https://arxiv.org/abs/1704.01665.
+
 ## Related Resources
 
 CMU fraud and spam detection lab: http://db.cs.cmu.edu/projects/spam-and-fraud-detection
